@@ -1,4 +1,4 @@
-# json_deneme_2
+# Sözlük Uygulaması
 
 A new Flutter application.
 
